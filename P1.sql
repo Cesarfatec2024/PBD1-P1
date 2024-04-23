@@ -51,4 +51,12 @@ END $$;
 
 
 -- 4)
+CREATE TABLE tb_cursores(
+id SERIAL PRIMARY KEY,
+nome_pais VARCHAR(100),
+preco_medio REAL,
+descricao_mais_longa VARCHAR(300)
+);
+
+
 
