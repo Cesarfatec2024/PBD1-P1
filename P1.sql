@@ -59,4 +59,9 @@ descricao_mais_longa VARCHAR(300)
 );
 
 
+-- 5)
+
+
+-- 6)
+
 
